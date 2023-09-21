@@ -1,1 +1,3 @@
-
+function coba() {
+  alert('Halo');
+}
